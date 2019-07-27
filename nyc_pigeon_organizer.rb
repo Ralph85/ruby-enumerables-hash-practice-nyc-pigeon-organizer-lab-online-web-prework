@@ -14,6 +14,8 @@ pigeons = {
     "Central Park" => ["Alex", "Ms. K", "Lucky"],
     "Library" => ["Peter Jr."],
     "City Hall" => ["Andrew"]
+  }
+}
 
 def nyc_pigeon_organizer(data)
   names = []
